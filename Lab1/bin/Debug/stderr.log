@@ -1,0 +1,16 @@
+2021-10-30 13:42:25.366 Lab1[15282:274757] 
+Unhandled Exception:
+System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+  at System.Collections.Generic.List`1[T].get_Item (System.Int32 index) [0x00009] in /Library/Frameworks/Xamarin.Mac.framework/Versions/Current/src/Xamarin.Mac/external/corefx/src/Common/src/CoreLib/System/Collections/Generic/List.cs:161 
+  at Lab1.TableDelegate.GetViewForItem (AppKit.NSTableView tableView, AppKit.NSTableColumn tableColumn, System.nint row) [0x00068] in /Users/admin/Projects/Lab1/Lab1/TableDelegate.cs:35 
+  at (wrapper managed-to-native) AppKit.NSApplication.NSApplicationMain(int,string[])
+  at AppKit.NSApplication.Main (System.String[] args) [0x00040] in /Users/builder/azdo/_work/1/s/xamarin-macios/src/AppKit/NSApplication.cs:109 
+  at Lab1.MainClass.Main (System.String[] args) [0x00007] in /Users/admin/Projects/Lab1/Lab1/Main.cs:15 
+[ERROR] FATAL UNHANDLED EXCEPTION: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+  at System.Collections.Generic.List`1[T].get_Item (System.Int32 index) [0x00009] in /Library/Frameworks/Xamarin.Mac.framework/Versions/Current/src/Xamarin.Mac/external/corefx/src/Common/src/CoreLib/System/Collections/Generic/List.cs:161 
+  at Lab1.TableDelegate.GetViewForItem (AppKit.NSTableView tableView, AppKit.NSTableColumn tableColumn, System.nint row) [0x00068] in /Users/admin/Projects/Lab1/Lab1/TableDelegate.cs:35 
+  at (wrapper managed-to-native) AppKit.NSApplication.NSApplicationMain(int,string[])
+  at AppKit.NSApplication.Main (System.String[] args) [0x00040] in /Users/builder/azdo/_work/1/s/xamarin-macios/src/AppKit/NSApplication.cs:109 
+  at Lab1.MainClass.Main (System.String[] args) [0x00007] in /Users/admin/Projects/Lab1/Lab1/Main.cs:15 

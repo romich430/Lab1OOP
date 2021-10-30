@@ -1,0 +1,10 @@
+/Users/admin/Projects/Lab1/Lab1/bin/Debug/Lab1.exe
+/Users/admin/Projects/Lab1/Lab1/bin/Debug/Lab1.pdb
+/Users/admin/Projects/Lab1/Lab1/obj/Debug/actool/_PartialAppManifest.items
+/Users/admin/Projects/Lab1/Lab1/obj/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/admin/Projects/Lab1/Lab1/obj/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/admin/Projects/Lab1/Lab1/obj/Debug/coremlc/_PartialAppManifest.items
+/Users/admin/Projects/Lab1/Lab1/obj/Debug/coremlc/_BundleResourceWithLogicalName.items
+/Users/admin/Projects/Lab1/Lab1/obj/Debug/Lab1.csproj.CoreCompileInputs.cache
+/Users/admin/Projects/Lab1/Lab1/obj/Debug/Lab1.exe
+/Users/admin/Projects/Lab1/Lab1/obj/Debug/Lab1.pdb
